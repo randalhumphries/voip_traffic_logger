@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/babf2b244fe290881646/maintainability)](https://codeclimate.com/github/randalhumphries/voip_traffic_logger/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/babf2b244fe290881646/test_coverage)](https://codeclimate.com/github/randalhumphries/voip_traffic_logger/test_coverage) 
+[![Maintainability](https://api.codeclimate.com/v1/badges/babf2b244fe290881646/maintainability)](https://codeclimate.com/github/randalhumphries/voip_traffic_logger/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/babf2b244fe290881646/test_coverage)](https://codeclimate.com/github/randalhumphries/voip_traffic_logger/test_coverage) [![Build Status](https://travis-ci.org/randalhumphries/voip_traffic_logger.svg?branch=master)](https://travis-ci.org/randalhumphries/voip_traffic_logger)
 
 # Nog: VoIP Traffic Logger
 
